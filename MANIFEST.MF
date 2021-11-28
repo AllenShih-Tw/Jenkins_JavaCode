@@ -1,0 +1,3 @@
+Main-Class: hello
+
+#jar -cvfm hello.jar MANIFEST.MF ./
